@@ -1,11 +1,6 @@
-#!/bin/bash
-
-# Test Setup Script for Multi-Tenant SaaS Workflow System
-# This script helps you quickly set up and test the system
-
 set -e
 
-echo "🚀 Setting up Multi-Tenant SaaS Workflow System for testing..."
+echo "Setting up Multi-Tenant SaaS Workflow System for testing..."
 
 # Colors for output
 RED='\033[0;31m'
